@@ -1,0 +1,5 @@
+list1=["apple",banana","cherry","kiwi","mango",]
+list2=[1.5,2.5,3.5]
+list3=["True","False","True"
+print(list1)
+('apple','banana','cherry',
